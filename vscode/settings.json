@@ -1,0 +1,17 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "explorer.confirmDelete": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "C_Cpp.updateChannel": "Insiders",
+    "debug.onTaskErrors": "showErrors",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.preferredDarkColorTheme": "Monokai Dimmed",
+    "workbench.preferredHighContrastColorTheme": "Monokai Dimmed",
+    "workbench.preferredLightColorTheme": "Monokai Dimmed",
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "xaver.clang-format"
+}
