@@ -3,3 +3,5 @@
 
 # git https://git-scm.com/download/mac
 brew install git
+
+brew install htop
