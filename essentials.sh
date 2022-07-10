@@ -5,3 +5,5 @@
 brew install git
 
 brew install htop
+
+brew install scrcpy
